@@ -77,7 +77,7 @@ churn-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/yourusername/Churn-prediction.git
 cd churn-prediction
 ```
 
@@ -87,14 +87,9 @@ python -m venv .venv
 source .venv/bin/activate      # On Windows: .venv\Scripts\activate
 ```
 
-3. **Install dependencies**
+3. **Run the churn prediction pipeline**
 ```bash
-pip install -r requirements.txt
-```
-
-4. **Run the churn prediction pipeline**
-```bash
-python churn_prediction.py
+python churn_model_training.py
 ```
 
 Ensure your datasets are placed in the `data/` folder as expected.
