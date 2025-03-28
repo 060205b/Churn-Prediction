@@ -53,7 +53,7 @@ churn-prediction/
 ├── data/
 │   ├── client_data.csv
 │   └── price_data.csv
-├── churn_prediction.py       # Main pipeline
+├── churn_model_training.py       # Main pipeline
 ├── churn_feature_creation.py
 ├── churn_data_cleaning.py
 ├── README.md                 # 📘 This file
@@ -117,4 +117,4 @@ Ensure your datasets are placed in the `data/` folder as expected.
 
 📬 **Bhuvaneshwari Balaji**  
 🔗 GitHub: [github.com/060205b](https://github.com/060205b)  
-📧 Email: bhuvaneshwaribalaji06@gmail.comb
+📧 Email: bhuvaneshwaribalaji06@gmail.com
