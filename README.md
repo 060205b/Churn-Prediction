@@ -108,6 +108,17 @@ Ensure your datasets are placed in the `data/` folder as expected.
 
 ---
 
+## 📁 Dataset Source
+
+The datasets used in this project were provided as part of the [BCG Data Science Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/MJw9w3NJGBsv7E6N4/BCG-Data-Science) on Forage.
+
+They include:
+- Customer behavioral and usage data
+- Energy pricing information
+- Churn indicator labels
+
+These datasets are **fictional** and were designed for educational purposes only. They are safe to use and share publicly in portfolios and GitHub repositories.
+
 ## 👤 Maintainer
 
 📬 **Bhuvaneshwari Balaji**  
