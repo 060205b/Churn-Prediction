@@ -54,7 +54,8 @@ churn-prediction/
 │   ├── client_data.csv
 │   └── price_data.csv
 ├── churn_prediction.py       # Main pipeline
-├── requirements.txt
+├── churn_feature_creation.py
+├── churn_data_cleaning.py
 ├── README.md                 # 📘 This file
 ```
 
@@ -112,19 +113,8 @@ Ensure your datasets are placed in the `data/` folder as expected.
 
 ---
 
-## 📌 TODO / Improvements
-
-- Handle class imbalance with SMOTE or class_weight  
-- Test with XGBoost or LightGBM for performance boost  
-- Add hyperparameter tuning using GridSearchCV  
-- Add SHAP or LIME for explainable ML  
-- Deploy the model with Flask/Streamlit frontend  
-- Create pipeline via MLFlow or DVC  
-
----
-
 ## 👤 Maintainer
 
-📬 **Your Name**  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-📧 Email: yourname@email.com
+📬 **Bhuvaneshwari Balaji**  
+🔗 GitHub: [github.com/060205b](https://github.com/060205b)  
+📧 Email: bhuvaneshwaribalaji06@gmail.comb
